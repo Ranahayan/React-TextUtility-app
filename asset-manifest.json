@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-harry-app/static/css/main.ebf8c15b.css",
+    "main.js": "/React-harry-app/static/js/main.c6ee512c.js",
+    "static/js/787.76c5fad5.chunk.js": "/React-harry-app/static/js/787.76c5fad5.chunk.js",
+    "index.html": "/React-harry-app/index.html",
+    "main.ebf8c15b.css.map": "/React-harry-app/static/css/main.ebf8c15b.css.map",
+    "main.c6ee512c.js.map": "/React-harry-app/static/js/main.c6ee512c.js.map",
+    "787.76c5fad5.chunk.js.map": "/React-harry-app/static/js/787.76c5fad5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ebf8c15b.css",
+    "static/js/main.c6ee512c.js"
+  ]
+}
